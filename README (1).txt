@@ -1,0 +1,7 @@
+﻿Link to Jupyter Notebook is here. 
+
+
+For this project, we were tasked to finding out what consumers value in a car. Based on the dataset, I used the price to determine the consumers’ value in a car - the higher the price, the more value a car has. For the purpose of this exercise, I decided to investigate the car’s fuel type, the distance a car has traveled, and the transmission type to see how that affects a car’s value. Due to limited constraints, for this exercise I used specifically Ford’s cars as that was the most populated car manufacturer in the dataset and because when I tried to train my models with all the different manufacturers and their different car models, I would keep timing out. In order to actually get an insight on how different features affected a car’s value, I had to compare similar cars with each other. 
+
+
+Overall, I found that consumers value cars with diesel fuel more than gas, hybrid, and electric. Cars will also lose value after they have traveled around 10,000 miles and from there their value is pretty constant. Automatic cars have more value than manual ones. These findings are supported by numbers and visualizations that were made based off of the data and the model that I trained using the data. The work can be seen using my link to my Jupyter Notebook which in the first line.
